@@ -70,16 +70,22 @@
 
 ###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/marloncampos06/marloncampos06/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img height="350" src="https://img.freepik.com/fotos-gratis/equipamento-ninja-de-tiro-completo_23-2150960964.jpg?semt=ais_hybrid&w=740&q=80"  />
+</div>
+
+###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marloncampos06/marloncampos06/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marloncampos06/marloncampos06/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/marloncampos06/marloncampos06/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/marloncampos06/marloncampos06/output/snake.svg" alt="Snake animation" />
 
 ###
